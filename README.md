@@ -24,6 +24,7 @@
 ### Работа над проектом ведется в команде.
 Репозиторий проекта доступен по ссылке: [path-watcher](https://github.com/ByKaS12/path-watcher)
 Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/Trickster22/inet2022_Alexandrov)
+
 ## ✅ Лабораторная работа № 3
 Работа с Сisco Packet Tracer.
 
