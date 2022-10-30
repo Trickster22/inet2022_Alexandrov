@@ -33,5 +33,6 @@
 - Проект: [Project](TODO// file.pka)
 - Информация о конфигурации устройств: [Device Configuration Information](TODO// file.pdf)
 - Сценарий для настройки устройств: [Command script in cisco](TODO// file.txt)
-✅ Экзаменационные билет №16
+
+## ✅ Экзаменационные билет №16
 Ответ на экзаменационный билет доступен по ссылке: [билет №16](https://github.com/stankin/inet-2022/wiki/exam16)
