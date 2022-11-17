@@ -23,7 +23,7 @@
   - Распределённая система управления версиями Git;
 ### Работа над проектом ведется в команде.
 Репозиторий проекта доступен по ссылке: [path-watcher](https://github.com/ByKaS12/path-watcher)
-Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/Trickster22/inet2022_Alexandrov)
+Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://trickster22.github.io/)
 
 ## ✅ Лабораторная работа № 3
 Работа с Сisco Packet Tracer.
