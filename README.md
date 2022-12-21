@@ -30,9 +30,9 @@
 
 Материалы о выполнении лабораторной работы:
 
-- Проект: [Project](TODO// file.pka)
-- Информация о конфигурации устройств: [Device Configuration Information](TODO// file.pdf)
-- Сценарий для настройки устройств: [Command script in cisco](TODO// file.txt)
+- Сценарий: [Cisco project](https://github.com/Trickster22/inet2022_Alexandrov/raw/main/Сценарий%20CPT.pka)
+- Информация о конфигурации устройств: [configuration information](https://github.com/Trickster22/inet2022_Alexandrov/files/10277080/default.pdf)
 
 ## ✅ Экзаменационные билет №16
 Ответ на экзаменационный билет доступен по ссылке: [билет №16](https://github.com/stankin/inet-2022/wiki/exam16)
+Индивидуальный реферат доступен по ссылке: [Last commit](https://github.com/Trickster22/inet2022_Alexandrov)
