@@ -35,4 +35,5 @@
 
 ## ✅ Экзаменационные билет №16
 Ответ на экзаменационный билет доступен по ссылке: [билет №16](https://github.com/stankin/inet-2022/wiki/exam16)
+
 Индивидуальный реферат доступен по ссылке: [Last commit](https://github.com/Trickster22/inet2022_Alexandrov)
